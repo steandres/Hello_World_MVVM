@@ -6,7 +6,7 @@ This project demonstrates the **MVVM (Model-View-ViewModel)** architectural patt
 
 MVVM is a software architectural pattern that separates application logic into three components:
 
-- **Model**: Represents the application's data (in this case, the message "Hola Mundo").
+- **Model**: Represents the application's data (in this case, the message "Hello World").
 - **ViewModel**: Acts as a bridge between the Model and the View. It prepares the data in a way that the View can consume easily.
 - **View**: Responsible for displaying the data. In this example, it prints the message to the console.
 
